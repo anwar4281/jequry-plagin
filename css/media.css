@@ -1,0 +1,75 @@
+@media(max-width:575px){
+    .navbar-brand img{
+        width: 90px;
+    }
+    .nav-link {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .navbar-nav {
+        text-align: center;
+    }
+    .fanner h2 {
+        font-size: 18px;
+        font-weight: 400;
+        letter-spacing: normal;
+    }
+    .fanner h5 {
+        font-size: 15px;
+    }
+    .btn_download{
+        padding: 6px 5px;
+        color: #ffff;
+        font-weight: 350;
+        font-size: 15px;
+        text-transform: uppercase;
+    }
+    .btn_view {
+        padding: 5px 6px;
+        font-weight: 350;
+        font-size: 15px;
+        text-transform: uppercase;
+        margin-left: 5px;
+    }
+    .fanner p {
+        font-size: 13px;
+        margin-bottom: 30px;
+}
+
+.fanner {
+    text-align: center;
+    margin-top: 20px;
+}
+.anwar img{
+    width: 60%;
+    margin: auto;
+    display: inherit;
+}
+.phone{
+    display: none;
+}
+.body .text h2 {
+    font-size: 20px;
+}
+.features {
+        margin-top: 20px;
+}
+
+.features p {
+    font-size: 13px;
+}
+.img-fluid {
+    width: 70%;
+    margin-top: 72%;
+    margin-left: 19%;
+}
+
+
+
+
+ }
+    
+    
+    
+
+
