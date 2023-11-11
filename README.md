@@ -1,0 +1,1 @@
+# jequry-plagin
